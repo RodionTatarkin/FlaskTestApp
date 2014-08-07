@@ -1,7 +1,0 @@
-body {
-  color: #aaaaaa;
-  background-color: #eee;
-  font-family: sans-serif;
-}
-h1 {font-size:18pt; color:#377BA8;}
-h1.code {font:courier, courier-new; font-weight:bold;}
